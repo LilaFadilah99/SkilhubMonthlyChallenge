@@ -17,6 +17,7 @@ Pada challenge ini kamu diminta membuat perpustakaan online yang akan menampilka
 - Membuat menu pengelompokkan buku berdasarkan genre adalah poin plus
 - Website memiliki Navbar dan Footer
 - Terdapat CTA (Call To Action) pada website
+- Silahkan menggunakan API atau boleh membuat data dummy untuk list buku
 
 Selain kriteria diatas, silahkan gunakan ide terbaik mu untuk hasil yang maksimal.
 
